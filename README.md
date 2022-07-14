@@ -1,7 +1,7 @@
 
-### Hello there !!! Je suis [Pierre-Antoine](https://www.linkedin.com/in/pierre-antoine-potage/) 
+## Hello there !!! Je suis [Pierre-Antoine](https://www.linkedin.com/in/pierre-antoine-potage/) 
 
-# :speech_balloon: About Me:
+## :speech_balloon: About Me:
 
 Ma reconversion professionnelle m’a conduit à suivre une licence de chef de projet digital :mortar_board:.<br> L’aspect technique m’ayant particulièrement séduit, j’ai intégré la formation développeur full-stack d’**O’clock** :dart:
 
@@ -21,7 +21,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif/>
+![Alt Text](https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pierreantoine-p&icon=0&color=6)](https://visitcount.itsvg.in)
