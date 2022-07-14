@@ -21,7 +21,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pierreantoine-p&icon=0&color=6)](https://visitcount.itsvg.in)
