@@ -66,5 +66,4 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 <hr>
 
 
-![Alt Text]()
 
