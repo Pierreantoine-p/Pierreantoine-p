@@ -44,7 +44,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 - VERSIONNING </br>
 GIT/GITHUB
-<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/git.png"/> </br>
+<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/Screenshot%202022-07-15%20at%2010-50-14%20Reservez%20votre%20date%2010%20juillet%202021.png"/> </br>
 <img src=""/> </br>
 
 - CMS </br>
