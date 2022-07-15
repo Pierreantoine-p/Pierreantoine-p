@@ -56,6 +56,6 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 <hr>
 
-### 😂 Random Dev Meme
-![Alt Text](https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif)
+
+![Alt Text]()
 
