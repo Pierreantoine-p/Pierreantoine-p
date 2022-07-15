@@ -27,7 +27,6 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br>
 <div>
 <img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width="60%"/>
-<br><br>
 </div>
 
 
@@ -38,11 +37,11 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) </br>
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) </br>
 
-<br><br>
+
 - BDD </br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</br>
-<br><br>
+
 - VERSIONNING </br>
 
 - CMS </br>
