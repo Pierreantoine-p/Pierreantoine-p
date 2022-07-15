@@ -18,15 +18,16 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br>
 
-<img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width="60%"/>
-<br><br>
+<div>
 - BACK-END
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) </br>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) </br>
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) </br>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) </br>
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) </br>
-
+<img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width="60%"/>
+<br><br>
+</div>
 - BDD
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</br>
@@ -41,9 +42,9 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 
 # :chart_with_upwards_trend: Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pierreantoine-p&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false'></div>
+<div align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=Pierreantoine-p&theme=dark&hide_border=false'></div>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'></div>
 
 ### 😂 Random Dev Meme
 ![Alt Text](https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif)
