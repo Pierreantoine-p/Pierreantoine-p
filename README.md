@@ -42,15 +42,15 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 
 # :chart_with_upwards_trend: Stats:
-<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false'></div>
 
-<hr>
-
-<div align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=Pierreantoine-p&theme=dark&hide_border=false'></div>
-
-<hr>
-
-<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'></div>
+<p align="center">
+  <a href="https://github.com/Romain-Portanguen"><span>
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierreantoine-p&theme=dark&hide_border=false"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    
+   
+</p>
 
 <hr>
 
