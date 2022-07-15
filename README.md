@@ -18,8 +18,9 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br>
 
-<div>
+
 - BACK-END </br>
+<div>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) </br>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) </br>
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) </br>
@@ -28,6 +29,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 <img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width="60%"/>
 <br><br>
 </div>
+
 - BDD </br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</br>
@@ -42,14 +44,14 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 
 # :chart_with_upwards_trend: Stats:
-
+</br>
 <p align="center">
   <a href="https://github.com/Romain-Portanguen"><span>
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
     <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierreantoine-p&theme=dark&hide_border=false"/>
+    </br>
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierreantoine-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     
-   
 </p>
 
 <hr>
