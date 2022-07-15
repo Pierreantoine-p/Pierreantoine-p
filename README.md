@@ -43,12 +43,11 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</br>
 
 - VERSIONNING </br>
-GIT/GITHUB
-<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/Screenshot%202022-07-15%20at%2010-50-14%20Reservez%20votre%20date%2010%20juillet%202021.png"/> </br>
-<img src=""/> </br>
+<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/logogit.png"/> </br>
+<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/github.png"/> </br>
 
 - CMS </br>
-<img src=""/> </br>
+<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/wordpresslogo.png"/> </br>
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)</br>
 
 - OTHER </br>
