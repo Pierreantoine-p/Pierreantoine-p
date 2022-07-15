@@ -51,6 +51,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 - OTHER </br>
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)</br>
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</br>
 
 
 # :chart_with_upwards_trend: Stats:
