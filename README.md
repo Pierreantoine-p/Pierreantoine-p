@@ -39,7 +39,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) </br>
 
 - BDD </br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white): SQL PgAdmin /Sqitch </br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) : SQL PgAdmin /Sqitch </br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</br>
 
 - VERSIONNING </br>
