@@ -19,7 +19,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br>
 
 <div>
-- BACK-END
+- BACK-END </br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) </br>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) </br>
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) </br>
@@ -28,16 +28,16 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 <img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width="60%"/>
 <br><br>
 </div>
-- BDD
+- BDD </br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</br>
 
-- VERSIONNING
+- VERSIONNING </br>
 
-- CMS
+- CMS </br>
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)</br>
 
-- OTHER
+- OTHER </br>
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)</br>
 
 
