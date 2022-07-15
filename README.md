@@ -2,8 +2,16 @@
 ## Hello there !!! Je suis [Pierre-Antoine](https://www.linkedin.com/in/pierre-antoine-potage/) 
 
 ## :speech_balloon: About Me:
-
+<br>
+<div>
+    
+<img align="right" src="https://c.tenor.com/ILO0FIwPYrMAAAAC/the-matrix-choose.gif" width="60%"/>
+<br>
 Ma reconversion professionnelle m’a conduit à suivre une licence de chef de projet digital :mortar_board:.<br> L’aspect technique m’ayant particulièrement séduit, j’ai intégré la formation développeur full-stack d’**O’clock** :dart:
+<br><br>
+    
+</div>
+
 
 
 ## 🌐 Socials:
