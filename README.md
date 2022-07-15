@@ -18,7 +18,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-antoine-potage/) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 
@@ -54,7 +54,7 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</br>
 
 
-# :chart_with_upwards_trend: Stats:
+## :chart_with_upwards_trend: Stats:
 </br>
 <p align="center">
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Pierreantoine-p&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false"/>
