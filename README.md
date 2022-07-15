@@ -44,9 +44,11 @@ Ma reconversion professionnelle m’a conduit à suivre une licence de chef de p
 
 - VERSIONNING </br>
 GIT/GITHUB
+<img src="https://github.com/Pierreantoine-p/Pierreantoine-p/blob/main/img/git.png"/> </br>
+<img src=""/> </br>
 
 - CMS </br>
-WORDPRESS
+<img src=""/> </br>
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)</br>
 
 - OTHER </br>
